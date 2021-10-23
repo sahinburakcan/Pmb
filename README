@@ -1,0 +1,6 @@
+# Pmb
+promedbox isimli projenin kodu
+sistem içerisinde rtc(1302), led, gibi çevresel elemanlar kullanılmıştır.
+rtcler ile ilgili olan yazımı okuyarak rtclerin ayarlanması hakkında bilgi edine bilirsiniz.
+sistem bluetooth haberleşmesi yapmaktadır.
+kod Esp wroom 32 için yazılmıştır.
